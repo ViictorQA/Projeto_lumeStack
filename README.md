@@ -29,7 +29,7 @@ Este projeto utiliza as seguintes tecnologias e ferramentas:
 ### Instalação
 
 ## Clone o repositório:
-    git clone https://github.com/ViictorQA/Projeto-Lum.git 
+https://github.com/ViictorQA/Projeto_lumeStack.git
 
 ## Instale as dependências do projeto:
     npm install
